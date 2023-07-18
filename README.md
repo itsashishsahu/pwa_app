@@ -1,4 +1,4 @@
-#sunweather | Progressive Web Application
+# sunweather | Progressive Web Application
 
 - This project is built using react JS and Open Weather API.
 - Please input the name of the city for which you would like to obtain weather information.
